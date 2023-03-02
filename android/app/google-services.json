@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "380168014762",
+    "project_id": "moblelad-flutter-firebase",
+    "storage_bucket": "moblelad-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380168014762:android:6d41f130391cfca362f9d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380168014762-vnufomvms0qv1p48st3gdf445p6bur14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tTRZKL_cNC7sGNz911LGvExq0nGXYrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380168014762-vnufomvms0qv1p48st3gdf445p6bur14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380168014762-68k1ujh3f865o6bqevc3rnimvkgdpi9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFirebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
